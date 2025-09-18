@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+h2{
+    color: white;
+}
+
+.container{
+    height: 1200px;
+    width: 1365px;
+    display: flex;
+
+}
+
+#left{
+    border:1px solid black;
+    height: 50%;
+    width: 50%;
+}
+#right{
+    height: 50%;
+    width: 50%;
+    border: 1px solid black;
+}
